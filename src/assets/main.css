@@ -1,0 +1,12 @@
+.white-box {
+    background-color: white;
+}
+
+.display-flex {
+    display: flex;
+}
+
+.container {
+    width: 80%;
+    margin: 0 auto
+}
