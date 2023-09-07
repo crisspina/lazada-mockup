@@ -1,6 +1,6 @@
 <template>
     <div class="">
-    <p>test</p>
+    <p>test develop</p>
         <div class="slide-banner">
             <img src="https://icms-image.slatic.net/images/ims-web/22660af4-6bfe-4e06-aa4b-8d7a95050f16.jpg" alt=""
                 class="banner" />
