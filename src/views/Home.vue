@@ -1,7 +1,7 @@
 <template>
     <div class="">
-    <p>test developppppp</p>
-    <span>wowza hahaha</span>
+    <p>test develop</p>
+    <span>wogitwza hahaha</span>
         <div class="slide-banner">
             <img src="https://icms-image.slatic.net/images/ims-web/22660af4-6bfe-4e06-aa4b-8d7a95050f16.jpg" alt=""
                 class="banner" />
@@ -16,6 +16,7 @@
                 <div class="white-box">
                     <div class="content-header">
                         <div class="left">
+                        
                             <div>
                                 <span class="content-top">On SaleNow</span>
                             </div>
